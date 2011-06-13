@@ -10,7 +10,7 @@ reconocida).
 <p class="sangria"><strong>CCNA</strong> (redes) y Hp <strong>IT Essentials</strong> (hardware y software).</p>
 <p class="sangria">Conoce las técnicas mas avanzadas en administración y
 gestion de equipos y aplicaciones informáticas, que te permitirán encontrar
-el mejor empleo.</p>
+el mejor .</p>
 <p>&nbsp;</p><!-- estos parafos vacios son para dejar espacio por debajo de los menus y que quede bonito -->
 
 </div>
