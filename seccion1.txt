@@ -1,0 +1,135 @@
+<div class="seccion">
+	
+<h2>Ciclo ASIR (Administración de Sistemas Informáticos y en Red)</h2>
+<img  src="img/ciscohp2.jpg"  class="parrafo1" alt="certificacion Cisco y Hp"/>
+<p class="sangria">Obten tu certificación <strong>CISCO</strong> (internacionalmente
+reconocida). 
+
+</p>
+<p class="">Accede a puestos de trabajo en la mejores condiciones gracias a nuestras certificaciones.</p>
+<p class="sangria"><strong>CCNA</strong> (redes) y Hp <strong>IT Essentials</strong> (hardware y software).</p>
+<p class="sangria">Conoce las técnicas mas avanzadas en administración y
+gestion de equipos y aplicaciones informáticas, que te permitirán encontrar
+el mejor empleo.</p>
+<p>&nbsp;</p><!-- estos parafos vacios son para dejar espacio por debajo de los menus y que quede bonito -->
+
+</div>
+<!-- fin capa seccion -->
+
+<div class="seccion">
+<h2>CONOCIMIENTOS</h2>
+
+<p class="sangria">Nuestro exitoso ciclo de ASIR (Administración de sistemas informáticos y en red) es el ciclo de grado superior donde te convertirás en un técnico de sistemas capaz de dar respuesta en diferentes ámbitos:</p>
+<ul>
+<li> Instalación y administración de sistemas operativos en los servidores (Windows y Linux).</li>
+<li> Implementación y administración de servicios de red (web, ftp, correo, etc).</li>
+<li> Diseño, implantación, y administración de bases de datos.</li>
+<li> Diseño de redes, selección de equipamiento, e implementación, teniendo muy en cuenta estándares de seguridad y rendimiento.</li>
+</ul>
+</div>
+<!-- fin capa seccion -->
+
+<div class="seccion">
+<h2>CURRÍCULO OFICIAL | Programa Formativo</h2>
+
+<div class="centrado">
+<!-- esta capa para centrar la tabla en IE6 -->
+
+<table class="mitabla">
+
+  <!-- esta clase para centrar la tabla en FF -->
+  <caption class="negrita micaption">Técnico Superior en Administración de
+  Sistemas Informáticos y en Red</caption>
+  <tbody>
+    <tr class="miborde">
+      <td class="cursiva">Modulos Profesionales (Materias) </td>
+      <td class="cursiva">Nº Horas </td>
+      <td class="cursiva">Horas/Semana </td>
+
+    </tr>
+    <tr style="border-bottom: 1px solid blue">
+      <td colspan="3" class="negrita">PRIMER CURSO </td>
+    </tr>
+        
+    <tr>
+      <td>Implantación de sistemas operativos</td>
+      <td>280 </td>
+      <td>8</td>
+    </tr>
+	<tr>
+      <td>Planificación y administración de redes</td>
+      <td>190 </td>
+      <td>6</td>
+    </tr>
+	<tr>
+      <td>Fundamentos de hardware </td>
+      <td>100 </td>
+      <td>3</td>
+    </tr>
+	<tr>
+      <td>Gestión de bases de datos</td>
+      <td>200 </td>
+      <td>6</td>
+    </tr>
+	<tr>
+      <td> Lenguajes de marcas y sistemas de gestión de información</td>
+      <td>140 </td>
+      <td>4</td>
+    </tr>
+	<tr>
+      <td>Formación y orientación laboral 	</td>
+      <td>90 </td>
+      <td>3</td>
+    </tr>
+	   
+    <tr>
+      <td colspan="3" class="negrita">SEGUNDO CURSO </td>
+    </tr>
+   <tr>
+      <td>Administración de sistemas operativos</td>
+      <td>120 </td>
+      <td>6</td>
+    </tr><tr>
+      <td>Servicios de red e Internet</td>
+      <td>115 </td>
+      <td>6</td>
+    </tr><tr>
+      <td>Implantación de aplicaciones web</td>
+      <td>100 </td>
+      <td>5</td>
+    </tr><tr>
+      <tdAdministración de sistemas gestores de bases de datos</td>
+      <td>60 </td>
+      <td>3</td>
+    </tr><tr>
+      <td>Seguridad y alta disponibilidad </td>
+      <td>100 </td>
+      <td>5</td>
+    </tr><tr>
+      <td>Empresa e iniciativa emprendedora</td>
+      <td>65 </td>
+      <td>3</td>
+    </tr><tr>
+      <td>Inglés </td>
+      <td>40 </td>
+      <td>2</td>
+    </tr><tr>
+      <td>Proyecto</td>
+      <td>30</td>
+      <td></td>
+    </tr>
+      <td>Formación en centros de trabajo </td>
+      <td>370 </td>
+      <td>  </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<hr />
+
+<p class="sangria">Si buscas empleo, ven a estudiar con nosotros. La mejor
+bolsa de empleo del mercado, en exclusiva para nuestros alumnos, trabajamos con las mejores empresas del sector y
+todos nuestros alumnos encuentran trabajo.</p>
+</div>
+
+<!-- fin capa seccion -->
